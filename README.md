@@ -1,2 +1,2 @@
-# blue-web-backend
-application:Log Management and Analytics Web Backend
+# blue-bff
+application:Log Management and Analytics Backend for Frontend
